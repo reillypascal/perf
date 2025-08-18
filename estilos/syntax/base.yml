@@ -1,6 +1,6 @@
 # BASE UI
-ColorColumn: '- blue-black'
-Conceal: ''
+ColorColumn: '' #no
+Conceal: '- blue-black'
 Cursor: 'pale-lavender'
 CursorIM: ''
 CursorColumn: ''
