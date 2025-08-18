@@ -35,9 +35,11 @@ hi CursorLineNr guifg=#a2a2a2 ctermfg=247 guibg=NONE ctermbg=NONE gui=NONE cterm
 hi LineNr guifg=#4d4d4d ctermfg=239 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi ModeMsg guifg=NONE ctermfg=NONE guibg=#19191e ctermbg=234 gui=NONE cterm=NONE
 hi MoreMsg guifg=NONE ctermfg=NONE guibg=#19191e ctermbg=234 gui=NONE cterm=NONE
-hi NonText guifg=NONE ctermfg=NONE guibg=#19191e ctermbg=234 gui=NONE cterm=NONE
 hi Normal guifg=#dbdbdb ctermfg=253 guibg=#1d1d22 ctermbg=234 gui=NONE cterm=NONE
 hi PMenu guifg=NONE ctermfg=NONE guibg=#19191e ctermbg=234 gui=NONE cterm=NONE
+hi PMenuSel guifg=NONE ctermfg=NONE guibg=#19191e ctermbg=234 gui=NONE cterm=NONE
+hi PmenuSbar guifg=NONE ctermfg=NONE guibg=#19191e ctermbg=234 gui=NONE cterm=NONE
+hi PmenuThumb guifg=NONE ctermfg=NONE guibg=#19191e ctermbg=234 gui=NONE cterm=NONE
 hi Search guifg=NONE ctermfg=NONE guibg=#19191e ctermbg=234 gui=NONE cterm=NONE
 hi SpecialKey guifg=NONE ctermfg=NONE guibg=#19191e ctermbg=234 gui=NONE cterm=NONE
 hi StatusLine guifg=#262633 ctermfg=235 guibg=#19191e ctermbg=234 gui=NONE cterm=NONE
