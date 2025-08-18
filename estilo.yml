@@ -1,0 +1,10 @@
+name: 'perf'
+version: '1.0.0'
+license: 'MIT'
+author: 'Reilly Spitzfaden'
+url: ''
+description: 'undefined'
+colorschemes:
+- name: 'perf'
+  background: 'dark'
+  palette: 'perf'
