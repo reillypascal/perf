@@ -28,6 +28,7 @@ if exists('g:perf_bold')
 endif
 let g:perf_bold = get(g:, 'perf_bold', 0)
 
+hi Conceal guifg=NONE ctermfg=NONE guibg=#19191e ctermbg=234 gui=NONE cterm=NONE
 hi Cursor guifg=#bd93f9 ctermfg=141 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi CursorLine guifg=NONE ctermfg=NONE guibg=#262633 ctermbg=235 gui=NONE cterm=NONE
 hi CursorLineNr guifg=#a2a2a2 ctermfg=247 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
