@@ -12,38 +12,38 @@ DiffChange: ''
 DiffDelete: ''
 DiffText: ''
 ErrorMsg: ''
-VertSplit: '- blue-black'
+VertSplit: '' #no
 Folded: '' #no
-FoldColumn: '- blue-black'
-SignColumn: '- blue-black'
+FoldColumn: '' #no
+SignColumn: '' #no
 IncSearch: '' #no
 LineNr: 'med-dark-gray'
 MatchParen: '' #no
-ModeMsg: '- blue-black'
-MoreMsg: '- blue-black'
+ModeMsg: '' #no
+MoreMsg: '' #no
 NonText: '' #no
 Normal: 'off-white dark-blue-gray'
-PMenu: '- blue-black'
-PMenuSel: '- blue-black'
-PmenuSbar: '- blue-black'
-PmenuThumb: '- blue-black'
-Question: '- blue-black'
-Search: '- blue-black'
-SpecialKey: '- blue-black'
+PMenu: '' #no
+PMenuSel: '' #no
+PmenuSbar: '' #no
+PmenuThumb: '' #no
+Question: '' #no
+Search: '' #no
+SpecialKey: '' #no
 SpellBad: ''
 SpellLocal: ''
 SpellCap: ''
 SpellRare: ''
 StatusLine: 'deep-blue-gray blue-black'
-StatusLineNC: '- blue-black'
-TabLine: '- blue-black'
-TabLineFill: '- blue-black'
-TabLineSel: '- blue-black'
-Title: '- blue-black'
+StatusLineNC: '' #no
+TabLine: '' #no
+TabLineFill: '' #no
+TabLineSel: '' #no
+Title: '' #no
 Visual: '- dim-blue-gray'
-VisualNOS: '- blue-black'
-WarningMsg: '- blue-black'
-WildMenu: '- blue-black'
+VisualNOS: '' #no
+WarningMsg: '' #no
+WildMenu: '' #no
 # BASE SYNTAX
 Comment: 'comment-gray'
 Constant: 'pale-lavender'
