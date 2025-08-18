@@ -1,24 +1,24 @@
 # BASE UI
-ColorColumn: ''
+ColorColumn: '- blue-black'
 Conceal: ''
 Cursor: 'pale-lavender'
 CursorIM: ''
 CursorColumn: ''
 CursorLine: '- deep-blue-gray'
 CursorLineNr: 'light-gray'
-Directory: '- blue-black'
+Directory: '' #no
 DiffAdd: ''
 DiffChange: ''
 DiffDelete: ''
 DiffText: ''
 ErrorMsg: ''
 VertSplit: ''
-Folded: '- blue-black'
+Folded: '' #no
 FoldColumn: ''
 SignColumn: ''
-IncSearch: '- blue-black'
+IncSearch: '' #no
 LineNr: 'med-dark-gray'
-MatchParen: '- blue-black'
+MatchParen: '' #no
 ModeMsg: ''
 MoreMsg: ''
 NonText: ''
