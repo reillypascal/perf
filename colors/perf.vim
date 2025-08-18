@@ -31,6 +31,9 @@ let g:perf_bold = get(g:, 'perf_bold', 0)
 hi Cursor guifg=#bd93f9 ctermfg=141 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi CursorLine guifg=NONE ctermfg=NONE guibg=#262633 ctermbg=235 gui=NONE cterm=NONE
 hi CursorLineNr guifg=#a2a2a2 ctermfg=247 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi Directory guifg=NONE ctermfg=NONE guibg=#19191e ctermbg=234 gui=NONE cterm=NONE
+hi Folded guifg=NONE ctermfg=NONE guibg=#19191e ctermbg=234 gui=NONE cterm=NONE
+hi IncSearch guifg=NONE ctermfg=NONE guibg=#19191e ctermbg=234 gui=NONE cterm=NONE
 hi LineNr guifg=#4d4d4d ctermfg=239 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi MatchParen guifg=NONE ctermfg=NONE guibg=#19191e ctermbg=234 gui=NONE cterm=NONE
 hi Normal guifg=#dbdbdb ctermfg=253 guibg=#1d1d22 ctermbg=234 gui=NONE cterm=NONE
