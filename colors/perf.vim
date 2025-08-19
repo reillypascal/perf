@@ -34,7 +34,7 @@ hi CursorLineNr guifg=#a2a2a2 ctermfg=247 guibg=NONE ctermbg=NONE gui=NONE cterm
 hi LineNr guifg=#4d4d4d ctermfg=239 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Normal guifg=#dbdbdb ctermfg=253 guibg=#1d1d22 ctermbg=234 gui=NONE cterm=NONE
 hi NormalFloat guifg=NONE ctermfg=NONE guibg=#19191e ctermbg=234 gui=NONE cterm=NONE
-hi StatusLine guifg=#262633 ctermfg=235 guibg=#19191e ctermbg=234 gui=NONE cterm=NONE
+hi StatusLine guifg=#8be9fd ctermfg=117 guibg=#19191e ctermbg=234 gui=NONE cterm=NONE
 hi Visual guifg=NONE ctermfg=NONE guibg=#323344 ctermbg=236 gui=NONE cterm=NONE
 hi Comment guifg=#646568 ctermfg=242 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Constant guifg=#bd93f9 ctermfg=141 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
