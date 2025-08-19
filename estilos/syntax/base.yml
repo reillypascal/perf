@@ -23,6 +23,7 @@ ModeMsg: '' #no
 MoreMsg: '' #no
 NonText: '' #no
 Normal: 'off-white dark-blue-gray'
+NormalFloat: ' - blue-black'
 PMenu: '' #no
 PMenuSel: '' #no
 PmenuSbar: '' #no
