@@ -35,7 +35,7 @@ SpellBad: ''
 SpellLocal: ''
 SpellCap: ''
 SpellRare: ''
-StatusLine: 'light-gray blue-black'
+StatusLine: 'off-white blue-black'
 StatusLineNC: '' #no
 TabLine: '' #no
 TabLineFill: '' #no
