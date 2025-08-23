@@ -16,7 +16,7 @@ VertSplit: '' #no
 Folded: '' #no
 FoldColumn: '' #no
 SignColumn: '' #no
-IncSearch: '' #no
+IncSearch: 'pale-lavender' # used for highlight in scnvim
 LineNr: 'med-dark-gray'
 MatchParen: '' #no
 ModeMsg: '' #no
