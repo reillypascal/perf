@@ -13,7 +13,7 @@ DiffDelete: "bright-orange deep-blue-gray"
 DiffText: "dark-blue-gray pale-lavender"
 ErrorMsg: ""
 VertSplit: ""
-Folded: "comment-gray -"
+Folded: "comment-gray dark-blue-gray"
 FoldColumn: ""
 SignColumn: ""
 IncSearch: "blue-black pale-lavender" # used for highlight in scnvim
