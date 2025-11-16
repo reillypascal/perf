@@ -1,83 +1,83 @@
 # BASE UI
-ColorColumn: '' #no
-Conceal: '' #no
-Cursor: 'pale-lavender'
-CursorIM: ''
-CursorColumn: ''
-CursorLine: '- deep-blue-gray'
-CursorLineNr: 'light-gray'
-Directory: '' #no
-DiffAdd: ''
-DiffChange: ''
-DiffDelete: ''
-DiffText: ''
-ErrorMsg: ''
-VertSplit: '' #no
-Folded: '' #no
-FoldColumn: '' #no
-SignColumn: '' #no
-IncSearch: 'blue-black pale-lavender' # used for highlight in scnvim
-LineNr: 'med-dark-gray'
-MatchParen: '' #no
-ModeMsg: '' #no
-MoreMsg: '' #no
-NonText: '' #no
-Normal: 'off-white dark-blue-gray'
-NormalFloat: '- blue-black'
-PMenu: '' #no
-PMenuSel: '' #no
-PmenuSbar: '' #no
-PmenuThumb: '' #no
-Question: '' #no
-Search: '' #no
-SpecialKey: '' #no
-SpellBad: ''
-SpellLocal: ''
-SpellCap: ''
-SpellRare: ''
-StatusLine: 'off-white blue-black'
-StatusLineNC: '' #no
-TabLine: '' #no
-TabLineFill: '' #no
-TabLineSel: '' #no
-Title: '' #no
-Visual: '- dim-blue-gray'
-VisualNOS: '' #no
-WarningMsg: '' #no
-WildMenu: '' #no
+ColorColumn: ""
+Conceal: ""
+Cursor: "pale-lavender"
+CursorIM: ""
+CursorColumn: ""
+CursorLine: "- deep-blue-gray"
+CursorLineNr: "light-gray"
+Directory: ""
+DiffAdd: ""
+DiffChange: "- dim-blue-gray"
+DiffDelete: ""
+DiffText: ""
+ErrorMsg: ""
+VertSplit: ""
+Folded: ""
+FoldColumn: ""
+SignColumn: ""
+IncSearch: "blue-black pale-lavender" # used for highlight in scnvim
+LineNr: "med-dark-gray"
+MatchParen: ""
+ModeMsg: ""
+MoreMsg: ""
+NonText: ""
+Normal: "off-white dark-blue-gray"
+NormalFloat: "- blue-black"
+PMenu: ""
+PMenuSel: ""
+PmenuSbar: ""
+PmenuThumb: ""
+Question: ""
+Search: ""
+SpecialKey: ""
+SpellBad: ""
+SpellLocal: ""
+SpellCap: ""
+SpellRare: ""
+StatusLine: "off-white blue-black"
+StatusLineNC: ""
+TabLine: ""
+TabLineFill: ""
+TabLineSel: ""
+Title: ""
+Visual: "- dim-blue-gray"
+VisualNOS: ""
+WarningMsg: ""
+WildMenu: ""
 # BASE SYNTAX
-Comment: 'comment-gray'
-Constant: 'pale-lavender'
-String: 'string-taupe' # Constant
-Character: 'off-white' # Constant
-Boolean: 'med-pink' # Constant
-Number: 'pale-orange' # Constant
-Float: 'pale-orange' # Constant
-Identifier: 'bright-pink'
-Function: 'light-green' # Identifier
-Statement: 'bright-pink'
-Conditional: 'bright-pink' # Statement
-Repeat: 'bright-pink' # Statement
-Label: 'yellow-white' # Statement
-Operator: 'med-pink' # Statement
-Keyword: 'bright-pink' # Statement
-Exception: 'orange-pink' # Statement
-PreProc: 'orange-yellow'
-Include: 'dusky-pink' # PreProc
-Define: 'dusky-pink' # PreProc
-Macro: 'dusky-pink' # PreProc
-PreCondit: 'dusky-pink' # PreProc
-Type: 'light-blue'
-StorageClass: '' # Type
-Structure: '' # Type
-Typedef: '' # Type
-Special: ''
-SpecialChar: '' # Special
-Tag: '' # Special
-Delimiter: '' # Special
-SpecialComment: '' # Special
-Debug: '' # Special
-Underlined: ''
-Ignore: ''
-Error: ''
-Todo: ''
+Comment: "comment-gray"
+Constant: "pale-lavender"
+String: "string-taupe" # Constant
+Character: "off-white" # Constant
+Boolean: "med-pink" # Constant
+Number: "pale-orange" # Constant
+Float: "pale-orange" # Constant
+Identifier: "bright-pink"
+Function: "light-green" # Identifier
+Statement: "bright-pink"
+Conditional: "bright-pink" # Statement
+Repeat: "bright-pink" # Statement
+Label: "yellow-white" # Statement
+Operator: "med-pink" # Statement
+Keyword: "bright-pink" # Statement
+Exception: "orange-pink" # Statement
+PreProc: "orange-yellow"
+Include: "dusky-pink" # PreProc
+Define: "dusky-pink" # PreProc
+Macro: "dusky-pink" # PreProc
+PreCondit: "dusky-pink" # PreProc
+Type: "light-blue"
+StorageClass: "" # Type
+Structure: "" # Type
+Typedef: "" # Type
+Special: ""
+SpecialChar: "" # Special
+Tag: "" # Special
+Delimiter: "" # Special
+SpecialComment: "" # Special
+Debug: "" # Special
+Underlined: ""
+Ignore: ""
+Error: ""
+Todo: ""
