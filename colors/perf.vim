@@ -31,10 +31,9 @@ let g:perf_bold = get(g:, 'perf_bold', 0)
 hi Cursor guifg=#bd93f9 ctermfg=141 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi CursorLine guifg=NONE ctermfg=NONE guibg=#262633 ctermbg=235 gui=NONE cterm=NONE
 hi CursorLineNr guifg=#a2a2a2 ctermfg=247 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi DiffAdd guifg=#50fa7b ctermfg=84 guibg=#262633 ctermbg=235 gui=NONE cterm=NONE
-hi DiffChange guifg=#8be9fd ctermfg=117 guibg=#262633 ctermbg=235 gui=NONE cterm=NONE
-hi DiffDelete guifg=#ff5555 ctermfg=203 guibg=#262633 ctermbg=235 gui=NONE cterm=NONE
-hi DiffText guifg=#1d1d22 ctermfg=234 guibg=#bd93f9 ctermbg=141 gui=NONE cterm=NONE
+hi DiffAdd guifg=NONE ctermfg=NONE guibg=#222e1d ctermbg=235 gui=NONE cterm=NONE
+hi DiffChange guifg=#a2edfd ctermfg=159 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi DiffDelete guifg=NONE ctermfg=NONE guibg=#301b1b ctermbg=234 gui=NONE cterm=NONE
 hi Folded guifg=#646568 ctermfg=242 guibg=#1d1d22 ctermbg=234 gui=NONE cterm=NONE
 hi IncSearch guifg=#19191e ctermfg=234 guibg=#bd93f9 ctermbg=141 gui=NONE cterm=NONE
 hi LineNr guifg=#4d4d4d ctermfg=239 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
